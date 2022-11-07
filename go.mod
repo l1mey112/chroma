@@ -1,4 +1,4 @@
-module github.com/alecthomas/chroma/v2
+module github.com/l1mey112/chroma
 
 go 1.19
 
